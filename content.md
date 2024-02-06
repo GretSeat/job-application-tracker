@@ -37,6 +37,66 @@ Ways to Post to Twitter and LinkedIn from Application?
 
 Easy Sharing Options
 
+Calculate Distant of Commute (if any)
+
+Hours?
+
+(and to build off commute and hours) Showing when you would need to leave, and when you would get home (if you leave exactly at a certain time)
+
+And to build off that... Add a "With Traffic it would be..."
+
+Impliment it with Google Maps???
+
+Resources area, for videos, articles, books, etc
+
+Area for "Help with the interview" prep.
+
+"Extensions for Adding Jobs Easily"
+
+"Check to see if you know anyone"
+
+## Contacts
+
+Relationship:
+Co-Worker, Friend, Family, Employee, Recruiter, Mentor, Hiring Manager, Alumni, Other
+
+Goal:
+Networking, Informational Interview, Request Referral, Research Interviewer, Research Career
+
+Status:
+To Be Contacted, Follow Up Needed, Meeting Scheduled, Thank You Sent
+
+Follow Up Date:
+(Be able to Set Follow Up Date)
+
+## Follow Ups
+
+Follow up Templates
+
+Communication Templates
+
+TEMPLATES
+
+## MANAGE TASKS
+
+## Upload Documents
+
+## Take Notes
+
+## Manage Contacts
+
+## Kanban
+
+## Collect Jobs from Multiple Job Thigns
+
+## Activity Tracking
+
+## Share Progress
+
+## Analytics
+
+## Jobs Mapped
+
 ###
 
 # Job Search Dashboard
