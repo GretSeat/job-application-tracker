@@ -1,42 +1,102 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+.app {
+  display: flex;
+}
+
+/* ----- Nav ------ */
+
+nav {
+  height: 100vh;
+  background-color: rgb(43, 43, 63);
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+nav .logo-container,
+nav .controls-container {
+  padding: 40px 25px;
+  display: flex;
+  flex-direction: column;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+nav .logo-container img {
+  max-width: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+nav .icon {
+  color: rgb(255, 255, 255);
 }
 
-.card {
-  padding: 2em;
+.controls-container {
+  gap: 5px;
 }
 
-.read-the-docs {
-  color: #888;
+/* ----- Home Page ------ */
+
+.homePage,
+.job-board,
+.profile-page,
+.contacts-page {
+  padding: 20px;
+  width: 100%;
+  overflow: scroll;
+}
+
+/* ----- Tracker ------ */
+
+.tracker {
+  width: 100%;
+}
+
+.tracker-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border: 1px solid gray;
+  padding: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.tracker-list-item {
+  border: 1px solid lightgray;
+  padding: 20px;
+  max-width: 150px;
+  text-align: center;
+  flex: 1;
+}
+
+/* ----- Job Board ------ */
+
+.job-board {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.job-table {
+  width: 100%;
+  border: 1px solid lightgray;
+}
+
+/* ----- Job Table ------ */
+
+.job-table-header * {
+  border: 1px solid red;
+}
+
+.job-table-body * {
+  border: 1px solid blue;
+  text-align: center;
 }
