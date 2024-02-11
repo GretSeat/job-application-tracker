@@ -21,6 +21,12 @@ export default function NavBar() {
         <div className="icon" onClick={() => navigate("/contacts")}>
           Contacts
         </div>
+        <div className="icon" onClick={() => navigate("/documents")}>
+          Documents
+        </div>
+        <div className="icon" onClick={() => navigate("/feeds")}>
+          Feeds
+        </div>
       </div>
     </nav>
   );

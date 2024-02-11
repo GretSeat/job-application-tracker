@@ -10,7 +10,9 @@ export default function JobPosts() {
             <th>Max Salary</th>
             <th>Location</th>
             <th>Status</th>
+            <th>Date Posted</th>
             <th>Date Saved</th>
+            <th>Date Applied</th>
             <th>Follow Up</th>
             <th>Excitement</th>
           </tr>
@@ -23,10 +25,12 @@ export default function JobPosts() {
             <td>10k</td>
             <td>20k</td>
             <td>Home</td>
+            <td>N/A</td>
             <td>Applied</td>
             <td>Today</td>
+            <td>N/A</td>
             <td>Yes</td>
-            <td>None</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Jack of All Trades</td>
@@ -35,6 +39,8 @@ export default function JobPosts() {
             <td>100k</td>
             <td>St Petersburg</td>
             <td>Applying</td>
+            <td>2 Days Ago</td>
+            <td>N/A</td>
             <td>Yesterday</td>
             <td>No</td>
             <td>5</td>

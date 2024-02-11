@@ -44,7 +44,9 @@ nav .icon {
 .homePage,
 .job-board,
 .profile-page,
-.contacts-page {
+.contacts-page,
+.feeds-page,
+.documents-page {
   padding: 20px;
   width: 100%;
   overflow: scroll;
