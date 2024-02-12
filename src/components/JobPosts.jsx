@@ -1,27 +1,27 @@
 export default function JobPosts() {
   return (
     <div className="job-table-container">
-      <table className="job-table">
+      <table className="job-table table table-hover table-striped">
         <thead className="job-table-header">
           <tr>
-            <th>Job Position</th>
-            <th>Company</th>
-            <th>Min. Salary</th>
-            <th>Max Salary</th>
-            <th>Location</th>
-            <th>Status</th>
-            <th>Date Posted</th>
-            <th>Date Saved</th>
-            <th>Date Applied</th>
-            <th>Follow Up</th>
-            <th>Excitement</th>
+            <th scope="col">Company</th>
+            <th scope="col">Job Position</th>
+            <th scope="col">Min. Salary</th>
+            <th scope="col">Max Salary</th>
+            <th scope="col">Location</th>
+            <th scope="col">Status</th>
+            <th scope="col">Date Posted</th>
+            <th scope="col">Date Saved</th>
+            <th scope="col">Date Applied</th>
+            <th scope="col">Follow Up</th>
+            <th scope="col">Excitement</th>
           </tr>
         </thead>
         <tbody className="job-table-body">
           {/* Dummy Info */}
           <tr>
-            <td>Job Guy</td>
             <td>Company Name</td>
+            <td>Job Guy</td>
             <td>10k</td>
             <td>20k</td>
             <td>Home</td>
@@ -33,8 +33,8 @@ export default function JobPosts() {
             <td>2</td>
           </tr>
           <tr>
-            <td>Jack of All Trades</td>
             <td>Best Company</td>
+            <td>Jack of All Trades</td>
             <td>50k</td>
             <td>100k</td>
             <td>St Petersburg</td>
