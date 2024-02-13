@@ -81,6 +81,8 @@ TEMPLATES
 
 ## Upload Documents
 
+INside this area I want to also be able to have a "copy and paste" section, for things I can send to people.
+
 ## Take Notes
 
 ## Manage Contacts
