@@ -81,11 +81,19 @@ TEMPLATES
 
 ## Upload Documents
 
+Make sure you can upload resume, as well as images
+
 ## Take Notes
+
+Have a way to submit and edit notes
 
 ## Manage Contacts
 
+Add/Remove/Edit Contacts
+
 ## Kanban
+
+Click and Drag Items?
 
 ## Collect Jobs from Multiple Job Thigns
 
