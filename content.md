@@ -105,6 +105,8 @@ Click and Drag Items?
 
 ## Jobs Mapped
 
+Find where the jobs are located and how far away your commute will be
+
 ###
 
 # Job Search Dashboard
