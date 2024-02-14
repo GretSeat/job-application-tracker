@@ -97,6 +97,8 @@ TEMPLATES
 
 ## Jobs Mapped
 
+Find out where jobs are located, and how far your commute will be
+
 ###
 
 # Job Search Dashboard
