@@ -89,7 +89,9 @@ INside this area I want to also be able to have a "copy and paste" section, for 
 
 ## Kanban
 
-## Collect Jobs from Multiple Job Thigns
+Click and drag items around?
+
+## Collect Jobs from Multiple Job Things
 
 ## Activity Tracking
 
