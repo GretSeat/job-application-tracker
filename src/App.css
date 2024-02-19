@@ -102,3 +102,8 @@ nav .icon {
   border: 1px solid blue;
   text-align: center;
 }
+
+/* ----- Profile Window ----- */
+.profile-window {
+  border: 1px solid black;
+}
